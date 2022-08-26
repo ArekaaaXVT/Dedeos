@@ -15,23 +15,23 @@ import threading
 import sys
 
 os.system("clear")
-print("""\033[35m
+print("""\033[32m
       →_→ Ddos Attack ←_←
                                     """)
   
-    print("""\033[35m
+    print("""\033[32m
       →_→ Sang creator Gabut ←_←
                                    """)
- 
-  print("""\033[34m
+ os.system("clear")
+  print("""\033[33m
   ================================""")
   
-    print("""\033[35m
+    print("""\033[34m
     [✓] Author : VilL` (Alpin)
     [✓] Discord : 
     [✓] Team : Rex Riot Community""")
 
-  print("""\033[36m 
+  print("""\033[35m 
   ================================""")
  
  ip =str(input("\033[32m >>> \033[39m [~] IP TARGET : "))
